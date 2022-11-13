@@ -1,1 +1,20 @@
-CARS
+----------CAR----------
+68000
+46998
+Cadillac
+2017 Escalade LUXURY
+15/20
+4WD
+V8 6.2 Liter EcoTec3
+true
+0
+----------CAR----------
+30000
+61998
+Cadillac
+1720 Escalade
+20/25
+RWD
+V5 4.1 Liter
+false
+1
